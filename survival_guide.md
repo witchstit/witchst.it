@@ -26,7 +26,7 @@
 - [Links for learning about winter camping:](#links-for-learning-about-winter-camping)
 ## INTRO
 This Survival Guide is here to help you understand what to expect at Witch's Tit, and what you'll need to be ready for a Winter Burn in Minnesota. Note that this guide, while helpful, is far from comprehensive; we encourage you to seek out more information on wilderness survival and especially winter camping. This community values mutual support, but ultimately only you can be responsible for your own health, well-being, and comfort.
-Additionally, we expect everyone to follow basic rules pertaining to public safety and communal well-being to help ensure the collective survival of our attendees and the event. That starts with reading this Guide -- hooray we're in the right place!
+Additionally, we expect everyone to follow basic rules pertaining to public safety and communal well-being to help ensure the collective survival of our attendees and the event. That starts with reading this Guide - hooray we're in the right place!
 Unless this is your first Burn (and if it is, WOW, we're excited to welcome you home) then you are already familiar with the Ten Principles. The Principles are a list of cultural values that grew out of Burning Man, and you can [read them here](http://www.burningman.com/whatisburningman/about_burningman/principles.html). They are not rules to follow but ideals which guide us. 
 ## DON'T GET LOST
 ### Address and Directions
@@ -36,7 +36,7 @@ If you follow the mapquest directions, through Bruno, it will bring you straight
 
 - Look for the red Gate Headquarters Building (shed) at the entrance.
 - Consider carpooling in a 4x4 or all wheel drive vehicle. You will have to navigate several miles of dirt road that is not plowed as often as the highways are, and parking will be limited. 
-- See the Event Details page for gate hours. **The gate will not be open Saturday and no entry accommodations will be made then. No re-entry will be allowed after you leave the event.**
+- See the [Event Details](https://witchst.it/event_details.html) page for gate hours. **The gate will not be open Saturday and no entry accommodations will be made then. No re-entry will be allowed after you leave the event.**
 - When you arrive, find the person volunteering at the gate (a small red building at the parking entrance) they will help you check in, show you where you can park, and explain how to shuttle your gear to center camp. 
 - We will help you get your gear from the parking area to center camp. From there it is on you. Pack your gear in bins or bags and bring a plastic sled to help move your gear.
 
@@ -113,7 +113,7 @@ Drinking alcohol in cold conditions can be very dangerous. Alcohol causes the bl
 
 You may choose to explore altered mental states, or encounter others who do. You may offer or be offered opportunities for physical or emotional intimacy, or to take risks. It is your responsibility to know your boundaries, and respect the boundaries of others. It is your responsibility to ask first, clearly and directly, before embarking on any of these adventures with another person, and to respect whatever answer you get. **Minnesota State Law holds that sexual contact with a person who is too intoxicated to consent is third degree sexual assault.** Manipulative behavior, such as begging, cajoling, coercion, retaliation, or abuse directed at someone for saying No are a violation of the safety of our whole community and may get you ejected from the event.
 
-If you experience or encounter an emergency, first and foremost get help! Flag down any person with a radio, such as a Ranger -- they can get you a medical response, fire response, or other assistance. If you become a victim of a crime during the event, report it immediately. 
+If you experience or encounter an emergency, first and foremost get help! Flag down any person with a radio, such as a Ranger - they can get you a medical response, fire response, or other assistance. If you become a victim of a crime during the event, report it immediately. 
 
 ### Rangers & Medical
 Rangers are experienced Burners who dedicate some of their time to helping others, and keep an eye on how things are going. Rangers can help mediate disputes, address safety concerns, find resources and information, or even just offer a fresh perspective if someone gets stuck on a problem. Rangers can radio for law enforcement, medical help, firefighting resources if necessary.
@@ -125,13 +125,13 @@ We have a medical tent with personnel available 24 hours a day during the event.
 Do you have Medical or Wilderness experience? You would be a huge asset as a [Volunteer](https://witchst.it/volunteer.html).
 
 ### Law Enforcement
-Witch's Tit is on private land in Pine County, MN. Law enforcement is not expected at the event, but please be respectful if you see a uniformed officer on premises, and alert somebody with a radio. Positive interactions with law enforcement are crucial to the long-term survival of the event. Familiarize yourself with all local, state and federal laws as you would in any municipality.*
+Witch's Tit is on private land in Pine County, MN. Law enforcement is not expected at the event, but please be respectful if you see a uniformed officer on premises, and alert somebody with a radio. Positive interactions with law enforcement are crucial to the long-term survival of the event. Familiarize yourself with all local, state and federal laws as you would in any municipality.
 
 ### Things NOT to bring
 - **No Fireworks.** We aren't permitted for explosives and we don't want a visit from the Sheriff.
 - **No Firearms.** This includes air rifles, BB guns and pellet guns.
 - **No RVs, Trailers, or Campers.** There is no room for these in the parking area.  
-That said, there might be room for RVs etc. outside of the parking area, but the rub is that it won't be possible to move them with snow on the ground. If you're coming to the event and want to overwinter your RV on site then let's talk.
+That said, there might be room for RVs etc. outside of the parking area, but the rub is that it won't be possible to move them with snow on the ground. If you're coming to the event and want to overwinter your RV on site then [let's talk](mailto:dom@witchst/it).
 - **No Pets.**
 - **No Glass containers.** We recommend against bringing glass containers, as cleaning up broken glass is very difficult in the snow, and highly problematic in the outdoors in general.
 - **Don't use a space heater,** unless you can guarantee that there is no risk of fire, carbon monoxide poisoning or other suffocation/oxygen depletion to yourself or other participants. A carbon monoxide detector is essential and required if you are burning fuel indoors.
@@ -141,7 +141,7 @@ That said, there might be room for RVs etc. outside of the parking area, but the
 ### Firewood and Fires
 - **Do not bring firewood from outside Pine County.** It is illegal to transport firewood across county lines in Minnesota unless it is MDA certified, heat-treated firewood. Emerald ash borer and spongy moth are spreading because people are moving infested firewood. Protect our trees and [be informed](https://www.mda.state.mn.us/plants-insects/firewood-information).
 - **You can pre-order firewood** and it will be ready for you when you arrive. Check the [Event Details](https://witchst.it/event_details.html) page for more info.
-- If you prefer to pick up firewood on your way, here's where to go-
+- If you prefer to pick up firewood on your way, here's where to go:
   - Victory Gas Station, Exit 191 / 325 Quarry Pl, Sandstone, MN 55072
   - Banning Junction Gas Station, Exit 195 / 60684 MN-23, Finlayson, MN 55735
 - **You can purchase firewood at the event,** but it will not be available 24/7. There will be a sign at firewood sales telling you the daily hours and/or when the next shipment is coming in. 
@@ -178,7 +178,7 @@ There are some experiences we only get to have in isolated, hard to reach places
 
 **Lighting up yourself,** your camp, and your art are always important, but even more so in the dark half of the year. We will only get about 10 sunlit hours a day, and 14 hours of darkness. Will your lights last overnight? How will the batteries fare in the cold? 
 
-**Are you interested in bringing a big project** -- maybe an effigy to burn, a mutant snow mobile, a semi-permanent structure? We already love the way you think, and want to help! Please fill out the theme camp form (even if you are by yourself) and we will get you in contact with the right person.
+**Are you interested in bringing a big project** - maybe an effigy to burn, a mutant snow mobile, a semi-permanent structure? We already love the way you think, and want to help! Please fill out the theme camp form (even if you are by yourself) and we will get you in contact with the right person.
 
 Does your art involve **Flame Effects, Poofers, or Pyrotechnics**? Definitely fill out the theme camp form (even if you are by yourself) to let us know what you have in mind. There are special considerations for flammable materials in extreme cold, and we want to make sure you have access to knowledge and resources particular to your set-up. Make sure you know all relevant laws and regulations, well enough that you can explain them to a law enforcement officer who may not have encountered a fire performance in their jurisdiction before.
 
@@ -188,7 +188,7 @@ Every Gift is unique to the giver, and does not contemplate a return. Gifts don'
 A suggestion: think about which challenge is going to be the hardest struggle for you, personally, living in the snowy woods for a long weekend. Maybe it's that your hands and feet never seem to get warm in the winter. Maybe you feel gross all the time if you don't have a way to wash your hands and face. What if you set your mind to solving that struggle early? And then, what if you found a way to solve it not only for yourself, but for anyone you meet who has the same problem you do?
 
 ### Volunteering
-Any Burn is only as awesome as its volunteers. There are several things that always need more hands, like Greeting arrivals at the gate, Rangering, and joining the Medical team (especially if you have relevant training or experience). Heck, do you think Witch's Tit could be more awesome if only it had this piece of infrastructure, or that service? We would love it if you got involved. No matter how you give your time, it's a great way to participate, and meet new people! Look for volunteer sign-up details on our website.
+Any Burn is only as awesome as its volunteers. There are several things that always need more hands, like Greeting arrivals at the gate, Rangering, and joining the Medical team (especially if you have relevant training or experience). Heck, do you think Witch's Tit could be more awesome if only it had this piece of infrastructure, or that service? We would love it if you got involved. No matter how you give your time, it's a great way to participate, and meet new people! Look for volunteer sign-up details on our [website](https://witchst.it/volunteer.html).
 
 ## DON'T FORGET YOUR STUFF
 
@@ -235,7 +235,7 @@ This section is a sample checklist for itemized prep. It isn't exhaustive, but i
 - **Cooking Stuff** See above for a short list of things you may want to bring. 
 - **Food and Water**
 
-## Links for learning about winter camping:
+## Links for learning about winter camping
 
 You can skip the bits about an avalanche, and fitting everything in a backpack, but otherwise some great tips:  
 https://www.rei.com/learn/expert-advice/winter-camping.html
