@@ -146,6 +146,7 @@ That said, there might be room for RVs etc. outside of the parking area, but the
   - Banning Junction Gas Station, Exit 195 / 60684 MN-23, Finlayson, MN 55735
 - **You can purchase firewood at the event,** but it will not be available 24/7. There will be a sign at firewood sales telling you the daily hours and/or when the next shipment is coming in. 
 - Your camp is welcome to have your own fire, but **it must be kept off the ground** in a fire ring, barrel or bowl. We will have a place for ashes at the end of the event. 
+- **Indoor fire sources** such as wood stoves or propane heats ought to be accompanied by a **dry chemical fire extinguisher**.
 - **Put out your fire before bed.**
 ### Photography
 Always ask before taking pictures, get consent of everyone in the image, and please remove any photos if asked.
@@ -233,6 +234,7 @@ This section is a sample checklist for itemized prep. It isn't exhaustive, but i
 - **Lotion/lip balm:** Cold weather can be tough on your skin, and chapped lips are no fun.
 - **Earplugs**: Not everyone will want to sleep when you do.
 - **Cooking Stuff** See above for a short list of things you may want to bring. 
+- **CO Detector & Fire Extinguisher** depending on your approach to combustion.
 - **Food and Water**
 
 ## Links for learning about winter camping
