@@ -156,7 +156,7 @@ There are only two things you can buy at Witch's Tit: firewood and ice. This is 
 
 ## DON'T WRECK THE JOINT
 Witch's Tit is a  **Leave No Trace (LNT)** event, which means we leave no physical trace of our activities and where possible, leave a place in a better state than we found it. This presents special challenges in the woods and the snow. There are some things which we are banding together to provide for anyone who needs it. Most Matter out of Place (MOOP) happens a little bit at a time, and it is much easier and more effective to prevent MOOP than to clean it up later. Here are things you can do to contain a mess before you make it.
-- **Pre-order Firewood from the event.** Do not bring firewood from home **unless you live in Pine County** (see Firewood and Fires).
+- **Pre-order Firewood from the event.** Do not bring firewood from home **unless you live in Pine County** (see [Firewood and Fires](https://witchst.it/event_details.html#wood)).
 - **Bring camp tables.** If you set things on the ground, they may get lost in the snow.
 - **Carry your butts in a tin,** if you smoke. An empty metal candy or mint container works well.
 - **Don't walk away from a mess.**
@@ -196,9 +196,9 @@ Any Burn is only as awesome as its volunteers. There are several things that alw
 This section is a sample checklist for itemized prep. It isn't exhaustive, but it should be a solid start for anyone who wants to use it.
 
 ### Before The Event
-- Have you ordered your Firewood?
+- Have you [ordered your Firewood](https://witchst.it/event_details.html#wood)?
 - Have you tested your winter camping gear?
-- Have you checked the weather report?
+- Have you checked the [weather report](https://weather.com/weather/tenday/l/8b0d9cfc5fc2b22ff8ea379005d80ea0a2dcd6b5d2f666a7e613efdce82b8761)?
 ### Clothing Checklist
 - **Under shirts**: Synthetic if you have them, extras if you don't. Baselayer style undershirts are good, but don't set yourself up to have to take off your inner layer if you get too hot.
 - **Sweatshirt**: Cotton is ok if you can keep it dry, away from your skin and away from the elements, If it gets wet it will be of no use.
