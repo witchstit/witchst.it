@@ -24,19 +24,19 @@
   - [Clothing Checklist](#clothing-checklist)
   - [Camp Gear Checklist](#camp-gear-checklist)
 - [Links for learning about winter camping:](#links-for-learning-about-winter-camping)
-## INTRO
+## Intro
 This Survival Guide is here to help you understand what to expect at Witch's Tit, and what you'll need to be ready for a Winter Burn in Minnesota. Note that this guide, while helpful, is far from comprehensive; we encourage you to seek out more information on wilderness survival and especially winter camping. This community values mutual support, but ultimately only you can be responsible for your own health, well-being, and comfort.
 Additionally, we expect everyone to follow basic rules pertaining to public safety and communal well-being to help ensure the collective survival of our attendees and the event. That starts with reading this Guide - hooray we're in the right place!
 Unless this is your first Burn (and if it is, WOW, we're excited to welcome you home) then you are already familiar with the Ten Principles. The Principles are a list of cultural values that grew out of Burning Man, and you can [read them here](http://www.burningman.com/whatisburningman/about_burningman/principles.html). They are not rules to follow but ideals which guide us. 
 ## DON'T GET LOST
 ### Address and Directions
-The event entrance on Park Hills Rd in Bruno, Pine County, MN. The exact location is at [46°18'07.9"N 92°33'29.5"W](https://www.openstreetmap.org/?mlat=46.3022&mlon=-92.5582#map=15/46.3022/-92.5582) / 46.302194N 92.558194W / [autographs.senders.takes](https://w3w.co/autographs.senders.takes)
+The event entrance is on Park Hills Rd in Bruno, Pine County, MN. The exact location is at [46°18'07.9"N 92°33'29.5"W](https://www.openstreetmap.org/?mlat=46.3022&mlon=-92.5582#map=15/46.3022/-92.5582) / 46.302194N 92.558194W / [autographs.senders.takes](https://w3w.co/autographs.senders.takes)
 
 If you follow the mapquest directions, through Bruno, it will bring you straight here... BUT if you continue on Hwy 23 to Kerrick it will reroute you and it will cut the time down on dirt roads. Via Bruno is about 7.5 miles on gravel, but via Kerrick is only about 2.5.
 
 - Look for the red Gate Headquarters Building (shed) at the entrance.
 - Consider carpooling in a 4x4 or all wheel drive vehicle. You will have to navigate several miles of dirt road that is not plowed as often as the highways are, and parking will be limited. 
-- See the [Event Details](https://witchst.it/event_details.html) page for gate hours. **The gate will not be open Saturday and no entry accommodations will be made then. No re-entry will be allowed after you leave the event.**
+- See the [Event Details](https://witchst.it/event_details.html#gate) page for gate hours. **The gate will not be open Saturday and no entry accommodations will be made then. No re-entry will be allowed after you leave the event.**
 - When you arrive, find the person volunteering at the gate (a small red building at the parking entrance) they will help you check in, show you where you can park, and explain how to shuttle your gear to center camp. 
 - We will help you get your gear from the parking area to center camp. From there it is on you. Pack your gear in bins or bags and bring a plastic sled to help move your gear.
 
@@ -140,7 +140,7 @@ That said, there might be room for RVs etc. outside of the parking area, but the
 
 ### Firewood and Fires
 - **Do not bring firewood from outside Pine County.** It is illegal to transport firewood across county lines in Minnesota unless it is MDA certified, heat-treated firewood. Emerald ash borer and spongy moth are spreading because people are moving infested firewood. Protect our trees and [be informed](https://www.mda.state.mn.us/plants-insects/firewood-information).
-- **You can pre-order firewood** and it will be ready for you when you arrive. Check the [Event Details](https://witchst.it/event_details.html) page for more info.
+- **You can pre-order firewood** and it will be ready for you when you arrive. Check the [Event Details](https://witchst.it/event_details.html#wood) page for more info.
 - If you prefer to pick up firewood on your way, here's where to go:
   - Victory Gas Station, Exit 191 / 325 Quarry Pl, Sandstone, MN 55072
   - Banning Junction Gas Station, Exit 195 / 60684 MN-23, Finlayson, MN 55735
@@ -172,14 +172,14 @@ Witch's Tit is a  **Leave No Trace (LNT)** event, which means we leave no physic
 
 ## DON'T JUST SURVIVE
 
-Now that you've made it this far, you might be asking yourself... wait, why are we putting ourselves through all this? That's a good question, and one that every Ttitterer can only answer for themselves. Ultimately, this Guide is here to help you get through the Survival parts with enough resources left to do something extraordinary in a beautiful, challenging place. 
+Now that you've made it this far, you might be asking yourself... wait, why are we putting ourselves through all this? That's a good question, and one that every Titterer can only answer for themselves. Ultimately, this Guide is here to help you get through the Survival parts with enough resources left to do something extraordinary in a beautiful, challenging place. 
 
 ### Art
 There are some experiences we only get to have in isolated, hard to reach places. What would you love to see at Witch's Tit? Well if you don't bring it, who will?
 
 **Lighting up yourself,** your camp, and your art are always important, but even more so in the dark half of the year. We will only get about 10 sunlit hours a day, and 14 hours of darkness. Will your lights last overnight? How will the batteries fare in the cold? 
 
-**Are you interested in bringing a big project** - maybe an effigy to burn, a mutant snow mobile, a semi-permanent structure? We already love the way you think, and want to help! Please fill out the theme camp form (even if you are by yourself) and we will get you in contact with the right person.
+**Are you interested in bringing a big project** - maybe an effigy to burn, a mutant snow mobile, a semi-permanent structure? We already love the way you think, and want to help! Please fill out the theme camp form linked to on the <a href="https://witchst.it/event_details.html#theme_camp">Event Details</a> page(even if you are by yourself) and we will get you in contact with the right person.
 
 Does your art involve **Flame Effects, Poofers, or Pyrotechnics**? Definitely fill out the theme camp form (even if you are by yourself) to let us know what you have in mind. There are special considerations for flammable materials in extreme cold, and we want to make sure you have access to knowledge and resources particular to your set-up. Make sure you know all relevant laws and regulations, well enough that you can explain them to a law enforcement officer who may not have encountered a fire performance in their jurisdiction before.
 
