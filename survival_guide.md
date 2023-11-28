@@ -75,7 +75,14 @@ Camping during the winter necessitates a level of preparation and planning that 
   - You should put the heater on a metal tray or other non- flammable surface so you don't melt your tent or start it on fire if the heater tips over. 
   - You should not sleep with the heater on.
   - **You must have an audible carbon monoxide detector**
+  - Bring a **fire extinguisher**, too
 - **Electric Heat** is not a viable option as there is no electricity at the event. Please do not run a gas generator to produce electric heat.
+- Speaking of **generators**, here are a few guidelines if you or your camp bring one:
+  - Put your gen away from people. They're loud and emit [potentially deadly](https://www.cpsc.gov/s3fs-public/Fatal-Incidents-Associated-with-Non-Fire-Carbon-Monoxide-Poisioning-from-Engine-Driven-Generators-and-Other-Engine-Driven-Tools-2011-2021.pdf) carbon monoxide.
+  - If you're up near Center Camp consider putting your gen right with the ones that'll be powering Center Camp / Rangers / Med. Or if not, consider putting you and your neighbors' gennies in the same place. Consolidating power sites will go a long way to reducing the issues associated with them.
+  - Put some walls around the gen to **baffle the sound**. They walls can be plywood, or potentially snow based on the how much accumulation there is. You can share sound mitigation with your neighbor, too.
+    - ed. note- in case it's not obvious, leave the top open. A few years ago some folks unintentionally brought fire art to an nearby regional burn when they left their fully enclosed genny running while they left to go shower
+  - Bring a **fire extinguisher** in case your generator turns into unintended fire art
 - **Hot water bottle** - any bottle can be a hot water bottle if you put hot water in it, but if you are going to put it in your sleeping bag make sure there is no chance of it leaking. 
 - **Buddy up.** Share your tent with a friend, it helps more than you think. Both in and out of the tent, a buddy keeping an eye on you can help avert problems before they become disasters. We ask that all Titterers practice a sort of  buddy system - not necessarily conjoined at the hip, but checking in with their buddy every so often
 - **Straw** makes a good insulator underneath your tent. There will be bales available to pull from and spread around
@@ -146,7 +153,7 @@ That said, there might be room for RVs etc. outside of the parking area, but the
   - Banning Junction Gas Station, Exit 195 / 60684 MN-23, Finlayson, MN 55735
 - **You can purchase firewood at the event,** but it will not be available 24/7. There will be a sign at firewood sales telling you the daily hours and/or when the next shipment is coming in. 
 - Your camp is welcome to have your own fire, but **it must be kept off the ground** in a fire ring, barrel or bowl. We will have a place for ashes at the end of the event. 
-- **Indoor fire sources** such as wood stoves or propane heats ought to be accompanied by a **dry chemical fire extinguisher**.
+- **Indoor fire sources** such as wood stoves or propane heats ought to be accompanied by a **fire extinguisher**. Note that some types of fire extinguishers are not suitable for cold-weather use. In general, carbon dioxide, halogenated agents, dry chemical, and dry powder extinguishers work in the cold and water or foam based ones do not. Check the label on yours to find its temperature rating.
 - **Put out your fire before bed.**
 ### Photography
 Always ask before taking pictures, get consent of everyone in the image, and please remove any photos if asked.
