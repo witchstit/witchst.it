@@ -207,7 +207,7 @@ This section is a sample checklist for itemized prep. It isn't exhaustive, but i
 - Have you tested your winter camping gear?
 - Have you checked the [weather report](https://weather.com/weather/tenday/l/8b0d9cfc5fc2b22ff8ea379005d80ea0a2dcd6b5d2f666a7e613efdce82b8761)?
 ### Clothing Checklist
-- **Under shirts**: Synthetic if you have them, extras if you don't. Baselayer style undershirts are good, but don't set yourself up to have to take off your inner layer if you get too hot.
+- **Under shirts**: Wool or synthetic if you have them, extras if you don't. Baselayer style undershirts are good, but don't set yourself up to have to take off your inner layer if you get too hot.
 - **Sweatshirt**: Cotton is ok if you can keep it dry, away from your skin and away from the elements, If it gets wet it will be of no use.
 - **Long johns**: Again layers are good, but don't set yourself up to have to take off your inner layer if you get too hot.
 - **Hat**: (One that fits in a pocket is nice so you can easily control your temperature. A thicker one is nice too if it is really cold.)
