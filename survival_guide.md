@@ -50,7 +50,7 @@ At bare minimum this includes:
 
 Wait, 20 below? Will it really be that cold? Maybe not, but extreme cold is as common in central Minnesota as extreme heat is in Black Rock City. **Weather will likely be our greatest challenge.** The average overnight low in Pine County, MN in February is 3 °F, and the record low is -21 °F (not including windchill). And we may get several inches of snow!
 
-Camping during the winter necessitates a level of preparation and planning that exceeds the scope of information covered in this Survival Guide. We urge you to do extensive research before attending the event, including reading the referenced documents at the end of this guide, seeking the advice of experienced winter campers or, if possible, obtain certification in Wilderness First Aid. If you have the option it can help to try camping in your backyard on a cold night to experiment with how to stay more comfortable in the cold.
+Camping during the winter necessitates a level of preparation and planning that exceeds the scope of information covered in this Survival Guide. We urge you to do extensive research before attending the event, including reading the referenced documents at the end of this guide, seeking the advice of experienced winter campers or, if possible, take a first aid course. If you have the option it can help to try camping in your backyard on a cold night to experiment with how to stay more comfortable in the cold.
 ## What's NOT On-site
 - RV hookups
 - Electricity
@@ -152,7 +152,7 @@ That said, there might be room for RVs etc. outside of the parking area, but the
   - Victory Gas Station, Exit 191 / 325 Quarry Pl, Sandstone, MN 55072
   - Banning Junction Gas Station, Exit 195 / 60684 MN-23, Finlayson, MN 55735
 - **You can purchase firewood at the event,** but it will not be available 24/7. There will be a sign at firewood sales telling you the daily hours and/or when the next shipment is coming in. 
-- Your camp is welcome to have your own fire, but **it must be kept off the ground** in a fire ring, barrel or bowl. We will have a place for ashes at the end of the event. 
+- Your camp is welcome to have your own fire, but **it must be kept off the ground** in a fire barrel or bowl. We will have a place for ashes at the end of the event. 
 - **Indoor fire sources** such as wood stoves or propane heats ought to be accompanied by a **fire extinguisher**. Note that some types of fire extinguishers are not suitable for cold-weather use. In general, carbon dioxide, halogenated agents, dry chemical, and dry powder extinguishers work in the cold and water or foam based ones do not. Check the label on yours to find its temperature rating.
 - **Put out your fire before bed.**
 ### Photography
