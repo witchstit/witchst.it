@@ -11,8 +11,8 @@ jobs:
       - name: SFTP upload
         uses: Dylan700/sftp-upload-action@latest
         with:
-          server: ssh.nyc1.nearlyfreespeech.net
-          username: dirtyhippy_witchstit
+          server: ${{ vars.SSH_HOST }}
+          username: ${{ vars.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           uploads: |
