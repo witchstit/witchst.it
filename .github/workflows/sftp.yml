@@ -1,0 +1,22 @@
+name: Upload complete repo to an SFTP destination
+
+on: [push]
+
+jobs:
+  Upload-to-SFTP:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: SFTP upload
+        uses: Dylan700/sftp-upload-action@latest
+        with:
+          server: ssh.nyc1.nearlyfreespeech.net
+          username: dirtyhippy_witchstit
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          uploads: |
+            ./ => ./
+          ignore: |
+            *.git
+            */**/*git*
