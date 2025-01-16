@@ -26,7 +26,7 @@
 - [Links for learning about winter camping:](#links-for-learning-about-winter-camping)
 ## Intro
 This Survival Guide is here to help you understand what to expect at Witch's Tit, and what you'll need to be ready for a Winter Burn in Minnesota. Note that this guide, while helpful, is far from comprehensive; we encourage you to seek out more information on wilderness survival and especially winter camping. This community values mutual support, but ultimately only you can be responsible for your own health, well-being, and comfort.
-Additionally, we expect everyone to follow basic rules pertaining to public safety and communal well-being to help ensure the collective survival of our attendees and the event. That starts with reading this Guide - hooray we're in the right place!
+Additionally, we expect everyone to follow basic rules pertaining to public safety and communal well-being to help ensure the collective survival of our attendees and the event. That starts with reading this Guide - hooray you're in the right place!
 Unless this is your first Burn (and if it is, WOW, we're excited to welcome you home) then you are already familiar with the Ten Principles. The Principles are a list of cultural values that grew out of Burning Man, and you can [read them here](http://www.burningman.com/whatisburningman/about_burningman/principles.html). They are not rules to follow but ideals which guide us. 
 ## DON'T GET LOST
 ### Address and Directions
@@ -34,10 +34,12 @@ The event entrance is on Park Hills Rd in Bruno, Pine County, MN. The exact loca
 
 If you follow the mapquest directions, through Bruno, it will bring you straight here... BUT if you continue on Hwy 23 to Kerrick it will reroute you and it will cut the time down on dirt roads. Via Bruno is about 7.5 miles on gravel, but via Kerrick is only about 2.5.
 
+It is recommended that you take the Kerrick route when there is snow/ice on the roads. The route via Bruno has a sharp turn that has caused people problems.
+
 - Look for the red Gate Headquarters Building (shed) at the entrance.
-- Consider carpooling in a 4x4 or all wheel drive vehicle. You will have to navigate several miles of dirt road that is not plowed as often as the highways are, and parking will be limited. 
+- Consider carpooling in a 4x4 or all wheel drive vehicle. You will have to navigate several miles of dirt road that is not plowed as often as the highways are. 
 - See the [Event Details](https://witchst.it/event_details.html#gate) page for gate hours. **The gate will not be open Saturday and no entry accommodations will be made then. No re-entry will be allowed after you leave the event.**
-- When you arrive, find the person volunteering at the gate (a small red building at the parking entrance) they will help you check in, show you where you can park, and explain how to shuttle your gear to center camp. 
+- When you arrive, find the person volunteering at the gate (a small red building at the access road turnoff) they will help you check in, show you where you can park, and explain how to shuttle your gear to center camp. 
 - We will help you get your gear from the parking area to center camp. From there it is on you. Pack your gear in bins or bags and bring a plastic sled to help move your gear.
 
 ## DON'T DIE IN THE SNOW
@@ -62,18 +64,18 @@ Camping during the winter necessitates a level of preparation and planning that 
 - **Dress in layers.** This is Winter 101, regulating your temperature by dressing up and down in stages. Remember that outer layers are easy to take on and off, but inner layers are not. If work makes you too warm but you're still out in the elements, try taking off one glove to regulate. Didn't work? Try both gloves. Still didn't work? Okay now you might want to shed a layer. Try to leave your hat on.
 - **Do not plan to sleep in your car.** Parking is near the main road, not very close to the event, and running a car can create exhaust that is a danger to others parked next to you.
 - **Do a test run** with your equipment before leaving home.
-- **Bring winter driving gear** such as snow tires. A snow shovel, sand (for traction), tow rope with a hook, and other tools can also prove to be very useful if it snows during the event or if your car gets stuck. Better to plan ahead than to pay for towing.
+- **Bring winter driving gear** such as: snow tires, snow shovel, sand (for traction), tow rope with a hook, and other tools can also prove to be very useful if it snows during the event or if your car gets stuck. Better to plan ahead than to pay for towing.
 - **Bring a sled** to transport your gear over the snow.
 - **Batteries lose charge** in the cold. Small electronic devices can be worn next to your skin to stay warm enough to still function. This includes cell phones, but also key fobs for keyless cars. Can your car sit for several days in extreme cold and still reliably start? Do you have jumper cables?
 - **Be prepared to sleep in the cold** no matter what heat source you bring. Do not bet your life on the effectiveness of any device you bring. Also, trying to heat your tent all night is not necessarily your goal. Most heaters recommend you do not use them overnight and getting too warm at night will make you sweat. Relying on localized heat (like a hot water bottle tucked by your feet / crotch) rather than heating your entire tent can be very effective.
 - **Cold makes plastic brittle.** Assess your warm-weather camping gear for durability at sub-zero temperatures. In particular, inflatable air mattresses can become brittle and fail in freezing temps.
 - **Wood burning stove** with a chimney is an option for some tents. A tent stove is smaller than a fireplace, so you will need to be able to split and cut your firewood into smaller pieces. You will need to add wood every hour or two, so you might want to plan to take turns tending the fire. 
+- **Other things have trouble in the cold**, too. Lighters have trouble, so using matches (or larger propane torches) often works better. Memory foam hardens. Pounding stakes into frozen ground is no fun but lag screws go right in. Zip ties break more readily and tape doesn't stick as well.
 - **Propane or Butane** - Those little heaters that don't need a chimney are great, but have some inherent drawbacks for use in a tent. Namely they create carbon dioxide (CO₂) and a surprising amount of water vapor when the fuel burns. You want good ventilation so the water does not condense on the inside of your tent when it is on. Crucial precautions if you go this route include:
   - The heater must be labeled "indoor-safe."
   - It must have an automatic tip-over shut-off.
   - The heater should have a low-oxygen sensor alarm or shut-off.
   - You should put the heater on a metal tray or other non- flammable surface so you don't melt your tent or start it on fire if the heater tips over. 
-  - You should not sleep with the heater on.
   - **You must have an audible carbon monoxide detector**
   - Bring a **fire extinguisher**, too
 - **Electric Heat** is not a viable option as there is no electricity at the event. Please do not run a gas generator to produce electric heat.
@@ -94,7 +96,7 @@ Camping during the winter necessitates a level of preparation and planning that 
 - **Do not skimp on food.** Your body is working hard to keep you warm, and that requires fuel! Comfort foods are especially good, and warm foods such as soups, hot cocoa and tea, will help you stay warm and make you happy. Remember though, the easier it is to make and prepare, the more likely you are to actually make it when you need it! It's possible that your food can freeze if left exposed to the elements (this includes fruit and veggies), so plan ahead and bring food that can be easily thawed.
 - **Dense foods stay warm longer** in your bowl as you eat. Soup or mashed potatoes will stay warm longer than spaghetti or green beans.
 - **Water left out will freeze solid** and become useless, especially if it is in a plastic jug that can't be heated on a fire or stove.
-- **Keeping your food in a cooler** (without ice) can keep your food and water from freezing. If it is really cold you can warm up some of your water on your stove to keep the cooler at refrigerator temps. 
+- **Keeping your food in a cooler** (without ice) can keep your food and water from freezing. If it is really cold you can warm up some of your water on your stove to keep the cooler at refrigerator temps. Keeping your water containers 3/4 full rather than up to the brim makes it possible to melt, if needed, by pouring hot water into the remaining 1/4.
 - You can use a **small cooler** with a tap as an insulated water source, so long as you clean it thoroughly first.
 - **Protect your food** from critters. You shouldn't need to worry about bears this time of year, but keep your food in containers that mice and other critters can't get into. 
 
@@ -137,10 +139,9 @@ Witch's Tit is on private land in Pine County, MN. Law enforcement is not expect
 ### Things NOT to bring
 - **No Fireworks.** We aren't permitted for explosives and we don't want a visit from the Sheriff.
 - **No Firearms.** This includes air rifles, BB guns and pellet guns.
-- **No RVs, Trailers, or Campers.** There is no room for these in the parking area.  
-That said, there might be room for RVs etc. outside of the parking area, but the rub is that it won't be possible to move them with snow on the ground. If you're coming to the event and want to overwinter your RV on site then [let's talk](mailto:dom@witchst/it).
+- **No RVs, Trailers, or Campers.** Only bring these if you have an RV pass.
 - **No Pets.**
-- **No Glass containers.** We recommend against bringing glass containers, as cleaning up broken glass is very difficult in the snow, and highly problematic in the outdoors in general.
+- **No Glass containers.** Be careful if you bring glass containers, as cleaning up broken glass is very difficult in the snow, and highly problematic in the outdoors in general.
 - **Don't use a space heater,** unless you can guarantee that there is no risk of fire, carbon monoxide poisoning or other suffocation/oxygen depletion to yourself or other participants. A carbon monoxide detector is essential and required if you are burning fuel indoors.
 - **Bicycles** will not be helpful in our wooded terrain.
 - **Mutant Vehicles** require prior coordination with event leads, and may not be possible at all. There is no motor vehicle access inside the event.
