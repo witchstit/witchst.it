@@ -34,7 +34,7 @@ The event entrance is on Park Hills Rd in Bruno, Pine County, MN. The exact loca
 
 If you follow the mapquest directions, through Bruno, it will bring you straight here... BUT if you continue on Hwy 23 to Kerrick it will reroute you and it will cut the time down on dirt roads. Via Bruno is about 7.5 miles on gravel, but via Kerrick is only about 2.5.
 
-It is recommended that you take the Kerrick route when there is snow/ice on the roads. The route via Bruno has a sharp turn that has caused people problems.
+It is recommended that you take the Kerrick route when there is snow/ice on the roads. The route via Bruno has a sharp turn that has caused people problems. See [this illustration](https://witchst.it/en_media_res/route_through_kerrick.jpeg) for details.
 
 - Look for the red Gate Headquarters Building (shed) at the entrance.
 - Consider carpooling in a 4x4 or all wheel drive vehicle. You will have to navigate several miles of dirt road that is not plowed as often as the highways are. 
