@@ -124,14 +124,14 @@ You may choose to explore altered mental states, or encounter others who do. You
 
 If you experience or encounter an emergency, first and foremost get help! Flag down any person with a radio, such as a Ranger - they can get you a medical response, fire response, or other assistance. If you become a victim of a crime during the event, report it immediately. 
 
-### Rangers & Medical
+### Rangers & First Aid
 Rangers are experienced Burners who dedicate some of their time to helping others, and keep an eye on how things are going. Rangers can help mediate disputes, address safety concerns, find resources and information, or even just offer a fresh perspective if someone gets stuck on a problem. Rangers can radio for law enforcement, medical help, firefighting resources if necessary.
 
 You can identify Rangers by the radios they wear, and you are invited to flag one down any time you need help. Rangers are not cops, and talking to a Ranger doesn't mean you are in trouble; they are here to offer support, reflection, and guidance, and then melt away as soon as they are no longer needed.
 
-We have a medical tent with personnel available 24 hours a day during the event. In case of an emergency they can get you help. If you have to call 911, please alert Medical as well. There's a plan in place to get emergency vehicles in and out.
+We have a first aid tent with personnel available 24 hours a day during the event. In case of an emergency they can get you help. If you have to call 911, please alert First Aid as well. There's a plan in place to get emergency vehicles in and out.
 
-Do you have Medical or Wilderness experience? You would be a huge asset as a [Volunteer](https://witchst.it/volunteer.html).
+Do you have First Aid or Wilderness experience? You would be a huge asset as a [Volunteer](https://witchst.it/volunteer.html).
 
 ### Law Enforcement
 Witch's Tit is on private land in Pine County, MN. Law enforcement is not expected at the event, but please be respectful if you see a uniformed officer on premises, and alert somebody with a radio. Positive interactions with law enforcement are crucial to the long-term survival of the event. Familiarize yourself with all local, state and federal laws as you would in any municipality.
@@ -197,7 +197,7 @@ Every Gift is unique to the giver, and does not contemplate a return. Gifts don'
 A suggestion: think about which challenge is going to be the hardest struggle for you, personally, living in the snowy woods for a long weekend. Maybe it's that your hands and feet never seem to get warm in the winter. Maybe you feel gross all the time if you don't have a way to wash your hands and face. What if you set your mind to solving that struggle early? And then, what if you found a way to solve it not only for yourself, but for anyone you meet who has the same problem you do?
 
 ### Volunteering
-Any Burn is only as awesome as its volunteers. There are several things that always need more hands, like Greeting arrivals at the gate, Rangering, and joining the Medical team (especially if you have relevant training or experience). Heck, do you think Witch's Tit could be more awesome if only it had this piece of infrastructure, or that service? We would love it if you got involved. No matter how you give your time, it's a great way to participate, and meet new people! Look for volunteer sign-up details on our [website](https://witchst.it/volunteer.html).
+Any Burn is only as awesome as its volunteers. There are several things that always need more hands, like Greeting arrivals at the gate, Rangering, and joining the First Aid team (especially if you have relevant training or experience). Heck, do you think Witch's Tit could be more awesome if only it had this piece of infrastructure, or that service? We would love it if you got involved. No matter how you give your time, it's a great way to participate, and meet new people! Look for volunteer sign-up details on our [website](https://witchst.it/volunteer.html).
 
 ## DON'T FORGET YOUR STUFF
 
