@@ -15,7 +15,7 @@ jobs:
           password: ${{ secrets.SFTP_PASSWORD }}
           localDir: '.'
           remoteDir: '/home/public/'
-          concurrency: 10
-          exclude: '*.git,.git/*,*/**/*git*'
+          concurrency: 1
+          exclude: '*.git,.git*,*/**/*git*'
           dryRun: true
 
