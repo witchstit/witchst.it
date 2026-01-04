@@ -12,7 +12,7 @@ jobs:
         with:
           host: ${{ secrets.SFTP_HOST }}
           username: ${{ secrets.SFTP_USERNAME }}
-          password: ${{ secrets.SSFTP_PASSWORD }}
+          password: ${{ secrets.SFTP_PASSWORD }}
           localDir: ''
           remoteDir: '/home/public/'
           concurrency: 10
