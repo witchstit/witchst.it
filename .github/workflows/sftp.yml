@@ -17,5 +17,5 @@ jobs:
           remoteDir: '/home/public/'
           concurrency: 1
           exclude: '*.git,.git*,*/**/*git*'
-          dryRun: true
+          dryRun: false
 
