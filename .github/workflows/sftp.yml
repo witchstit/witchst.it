@@ -1,22 +1,21 @@
 name: Upload complete repo to an SFTP destination
-
 on: [push]
 
 jobs:
-  Upload-to-SFTP:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: SFTP upload
-        uses: Dylan700/sftp-upload-action@latest
+      - uses: actions/checkout@v4
+      
+      - name: Upload via SFTP
+        uses: wangyucode/sftp-upload-action@v3
         with:
-          server: ${{ vars.SSH_HOST }}
-          username: ${{ vars.SSH_USERNAME }}
-          password: ${{ secrets.SSH_PASSWORD }}
-          port: 22
-          uploads: |
-            ./ => ./
-          ignore: |
-            *.git
-            */**/*git*
+          host: ${{ secrets.SFTP_HOST }}
+          username: ${{ secrets.SFTP_USERNAME }}
+          password: ${{ secrets.SFTP_PASSWORD }}
+          localDir: '.'
+          remoteDir: '/home/public/'
+          concurrency: 1
+          exclude: '*.git,.git*,*/**/*git*'
+          dryRun: false
+
